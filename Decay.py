@@ -2,13 +2,13 @@
 
 This script is a quick example for adding decay rates to money in an account & just a formality
 
-The thought is that with a decay rate applyed to money we can avoid stagnate or money that stops circulation.
+The thought is that with a decay rate applied to money, we can avoid stagnate or money that stops circulation.
 
-The block chain is to help keep a ledger, identify fraud, set decay rates, identify bottlenecks, deflate inflation.
+The blockchain is to help keep a ledger, identify fraud, set decay rates, identify bottlenecks, deflate inflation.
 
-Once a limit has been reatched funds will decay unless they are used \ transferd.
+Once a limit has been reached, funds will decay unless they are used \ transferd.
 
-You can either pass consumed decay into deletion or charity \ public.  
+You can either pass consumed decay into deletion or charity \ public. 
 
 """
 
